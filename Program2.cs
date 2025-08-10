@@ -61,7 +61,7 @@ namespace htel
                 }
                 else if (NumberOfnight >= 4 && NumberOfnight <= 10)
                 {
-                    cost = NumberOfnight * 80.5;
+                    cost = NumberOfnight * 90.5;
 
                 }
                 else
