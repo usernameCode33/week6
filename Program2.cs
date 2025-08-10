@@ -37,7 +37,7 @@ namespace htel
                 while (true) { 
                    
                     NumberOfnight = int.Parse(Console.ReadLine()); 
-                    if(NumberOfnight>=1&& NumberOfnight <= 20)
+                    if(NumberOfnight>=1&& NumberOfnight <= 30)
                     {
                         night[i] = NumberOfnight;
                         break;
